@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+
+}
+.nav{
+    background-color:aqua;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    height: 90px;
+    border: 1px solid yellow;
+    font-size: larger;
+    
+}
+.nav ul{
+    list-style-type: none;
+    overflow: hidden;
+    
+}
+.li{
+   
+    display:inline-block;
+     
+}
+ .nav ul li a:hover{
+    color: yellow;
+}
+.fa{
+    float: right;
+    font-size: x-large;
+}
+.y{
+    
+    color: white;
+    position: absolute;
+    top: 25px; right: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    
+    
+
+}
+.y1{
+    font-size: medium;
+}
+
+.y5{
+    font-size: large;
+    font-style: normal;
+    float: right;
+    
+}
+ .nav ul{
+     overflow: auto;
+     list-style-type: none;
+    
+    }
+
+ .nav li{
+    float: left;
+    padding: 50px;
+    
+    
+    
+ }   
+    
+.tribute{
+    width: 100%;
+    height: 100vh;
+    background-color:white;
+    
+}
+.tribute1{
+    text-align: center;
+    padding: 5px 0 100px 0 ;
+    font-style: italic;
+
+}
+
+.tribute2{
+    width: 100px;
+    height: 60px;
+    position: absolute;
+    top: 190px; left: 30px;
+    
+
+}
+.tributeimp
+{
+    width: 100px;
+    height: 460px;
+    position: absolute;
+    top: 190px; left: 30rem;
+    padding-left:  600px;
+    background-image: url(abdul\ kalam3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.tribute3{
+    position: absolute;
+    top: 746px; right: 500px;
+    font-size: large;
+    
+}
+
+.tribute4{
+    width: 300px;
+    height: 700px;
+    background-color: azure;
+    position: absolute;
+    top: 190px; right: 10px;
+    display: inline-block;
+    overflow: auto;
+
+}
+
+.tribute5{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: x-large;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    padding: 30px ;
+
+}
+.ans{
+    background-color: rgb(127, 159, 255);
+    width: 100%;
+    height: 800px;
+    position: absolute;
+    top: 2260px;
+
+}
+.ans2{
+    width: 60%;
+    height: 70%;
+    position: absolute;
+    top: 150px; right: 300px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    background-color: azure;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 40px;
+    
+
+}
+.inputt{
+    font-size: larger;
+}
+.tribute8{
+    background-color: black;
+    border: 10px solid yellow;
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    top: 3050px;
+
+}
+.tribute9{
+    font: bolder;
+    color: azure;
+    padding: 25px;
+    font-size: larger;
+
+}
+.tribute8 ul{
+    list-style-type: none;
+
+}
+.tribute8 li{
+    padding: 16px; 
+    color: aliceblue;
+    font-size: large;
+    
+    flex-direction: column;
+
+}
+.tri{
+    color: white;
+    font-size: x-large;
+    padding-left: 900px;
+    position: absolute;
+    top: 20px;
+}
+
+.ui{
+    display: flex;
+    align-items: center;
+}
+html,css{
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+
+
+} 
